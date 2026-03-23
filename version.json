@@ -1,5 +1,6 @@
 {
   "version": "1.1.0",
   "apk": "https://github.com/FrayPalomino/AirLoop/releases/latest/download/AirLoop.apk",
-  "notes": "Nueva mejora de rendimiento"
+  "notes": "Nueva mejora de rendimiento",
+  "force": false
 }
